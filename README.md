@@ -55,17 +55,17 @@ Cantidad total vendida
 
 Ingresos generados (cantidad × precio)
 
-Tecnologías Utilizadas
-
+Tecnologías utilizadas en los proyectos :
 Laravel 10+
 
-PHP 8.1+
+PHPMYADMIN 8.1+
 
-MySQL/MariaDB
+MySQL
 
-Eloquent ORM
+PostMan
 
-API RESTful
+XAMPP
+
 
 Entregables
 Migraciones de base de datos funcionando
